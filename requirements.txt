@@ -1,0 +1,6 @@
+asyncio
+Telethon
+opentele
+aiogram
+peewee
+phonenumbers
